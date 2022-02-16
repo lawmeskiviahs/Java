@@ -10,6 +10,7 @@ public class linearSearch {
     for(int i=0;i<size;i++)
       arr[i]=sc.nextInt();
     System.out.println("Enter the element to be searched");
+    System.out.println("Enter the elements of the");
     int element=sc.nextInt();
     int j;
     for(j=0;j<size;j++)
