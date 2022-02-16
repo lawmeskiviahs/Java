@@ -8,6 +8,7 @@ public class linearSearch {
     System.out.println("Enter the elements of the arra");
     System.out.println("Enter the elements of the array");
     for(int i=0;i<size;i++)
+    https://github.com/
       arr[i]=sc.nextInt();
     System.out.println("Enter the element to be searched");
     System.out.println("Enter the elements of the");
